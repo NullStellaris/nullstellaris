@@ -1,4 +1,4 @@
-## Hi there 👋
+## Somehow it feels like something should be here...
 
 <!--
 **NullStellaris/nullstellaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
